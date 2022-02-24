@@ -1,0 +1,35 @@
+/*********************Tag Selector *****************/
+h1 {
+    color:red;
+    font-size: 100px;
+}
+/*img {
+    width: 25%;
+    height: 50%;
+    background-color: pink;
+} */
+
+/*********************Class Selector***************/
+.bacon {
+    width: 25%;
+    height: 50%;
+    background-color: pink;
+    border-radius: 200%;
+}
+.brocoli {
+    width: 25%;
+    height: 145px;
+    background-color: powderblue;
+}
+.circular{
+    border-radius: 100%;
+}
+/**************Id Selector************************/
+#heading{
+    color: purple;
+    font-size: 75px;
+}
+/******************Pseudo Selector*******************/
+img:hover{
+    background-color: goldenrod;
+}
